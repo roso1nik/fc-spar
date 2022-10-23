@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fc-spar/static/css/main.cd27d34a.css",
+    "main.js": "/fc-spar/static/js/main.89fb64da.js",
+    "index.html": "/fc-spar/index.html",
+    "main.cd27d34a.css.map": "/fc-spar/static/css/main.cd27d34a.css.map",
+    "main.89fb64da.js.map": "/fc-spar/static/js/main.89fb64da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd27d34a.css",
+    "static/js/main.89fb64da.js"
+  ]
+}
